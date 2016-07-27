@@ -1,0 +1,103 @@
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.clear:after{
+	content: '';
+	display: block;
+	clear: both;
+}
+li{
+	float: left;
+}
+.top a{
+	display: block;
+	float: left;
+	line-height: 40px;
+	padding-right: 23px;
+	margin-top: 9px;
+}
+.top img{
+	
+	margin-top: 9px;
+	margin-left: 9px;
+	line-height: 40px;
+}
+.waper{
+	width: 1236px;
+	margin:50px auto;
+	padding-left: 16px;
+	padding-top: 6px;
+	padding-right: 10px;
+
+}
+.top strong{	
+	font-size: 20px;
+	float: left;
+	display: block;
+	line-height: 40px;
+}
+.top span{
+	font-size: 14px;
+	font-family: "楷体";
+	float: left;
+	display: block;
+	margin-left: 8px;
+	line-height: 40px;
+}
+.top .ar{
+	margin-right: 9px;
+}
+.bottom{
+	width: 1210px;
+	border: 1px solid #d1d1d1;
+}
+.bottom a{
+	display: block;
+}
+.bottom .f2{
+	float: left;
+	margin-bottom: 13px;
+}
+.bottom .b1{
+	margin-left: 75px;
+	margin-right: 123px;
+
+	margin-top: 25px;
+}
+.bottom .b2{
+	margin-right:92px;
+	margin-top: 23px;
+}
+.bottom .b3{
+	margin-right:90px;
+	margin-top: 29px;
+}
+.bottom .b4{
+	margin-right:121px;
+	margin-top: 27px;
+}
+.bottom .b5{
+	margin-right:95px;
+	margin-top: 21px;
+}
+.bottom .b6{
+	margin-right:30px;
+	margin-top: 21px;
+}
+.bottom .a1{
+	padding-right: 46px;
+	margin-left: 37px;
+	padding-bottom: 13px;
+	border-right: 1px solid #d1d1d1;
+	line-height: 20px;
+	margin-top: 15px;
+}
+.bottom .a6{
+	padding-right: 45px;
+	margin-left:30px;
+	line-height: 20px;
+	margin-top: 15px;
+}
